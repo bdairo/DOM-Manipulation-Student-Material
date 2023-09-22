@@ -1,0 +1,33 @@
+#box{
+    width: 400px;
+    height: 17px;
+    list-style: none;
+    background-color: #141c3a;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 16px;
+    padding: 17px 0px;
+    color: #efd9ca;
+    font-weight: bold;
+    cursor: pointer;
+    font-family: 'Nunito';
+  }
+
+
+  #myButton{
+    width: 400px;
+    height: 50px;
+    background: #fd4d3c;
+    margin: 0 auto;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 16px;
+    padding: 17px 0px;
+    color: #141c3a;
+    font-weight: bold;
+    display: block;
+    cursor: pointer;
+    font-family: 'Nunito';
+  }
